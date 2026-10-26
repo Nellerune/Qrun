@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "qrun.helloWorld",
-        "title": "Hello World"
+        "command": "qrun.run",
+      "title": "Запуск файла Qrun"
       }
     ]
   },
