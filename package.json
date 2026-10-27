@@ -3,6 +3,12 @@
   "displayName": "Qrun",
   "description": "",
   "version": "0.0.1",
+  "publisher": "nellerune",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nellerune/Qrun"
+},
+
   "engines": {
     "vscode": "^1.140.0"
   },
